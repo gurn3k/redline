@@ -49,3 +49,15 @@ flag.
 - `research/summary.md` — user research findings; read before deciding what
   the product should do.
 - `PRD.md` (once it exists) — the brief; read before building anything.
+
+## Agent skills
+
+### Issue tracker
+
+Issues and specs live as markdown files under `.scratch/`. See
+`docs/agents/issue-tracker.md`.
+
+### Domain docs
+
+Single-context layout: `CONTEXT.md` + `docs/adr/` at the repo root. See
+`docs/agents/domain.md`.
